@@ -9,7 +9,7 @@ class Layout extends StatelessWidget {
       appBar: AppBar(
         centerTitle: true,
         title: const Text("Grid Layout"),
-        backgroundColor: Colors.orange,
+        backgroundColor: const Color.fromARGB(255, 255, 172, 48),
         ),
       body: Center(
         child: Column(

@@ -28,7 +28,7 @@ class PortalPage extends StatelessWidget {
       appBar: AppBar(
           centerTitle: true,
           title: const Text('Portal Page'),
-          backgroundColor: Colors.purpleAccent,
+          backgroundColor: const Color.fromARGB(255, 235, 130, 253),
           ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
